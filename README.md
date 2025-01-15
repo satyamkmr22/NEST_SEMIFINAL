@@ -52,13 +52,6 @@ This project addresses the problem of predicting the Study Recruitment Rate (RR)
 ## Acknowledgments
 The project utilized insights from academic papers and was powered by an NVIDIA A100 GPU through OLA Krutrim.
 
-## Team Members
-- *Satyam Kumar*
-- *Ayush Shaurya Jha*
-- *Raunak Raj*
-- *Dhruv Bansal*
-- *Kritnandan*
-- *Ankita Kumari*
 
 ## References
 - [BioBERT Research Paper](https://academic.oup.com/bioinformatics/article/36/4/1234/5566506)
